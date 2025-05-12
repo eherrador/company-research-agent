@@ -166,7 +166,7 @@ const ResearchForm: React.FC<ResearchFormProps> = ({
                 htmlFor="companyUrl"
                 className="block text-base font-medium text-gray-700 mb-2.5 transition-all duration-200 group-hover:text-gray-900 font-['DM_Sans']"
               >
-                URL del Website de la compañía
+                URL del Website de la Compañía
               </label>
               <div className="relative">
                 <div className="absolute inset-0 bg-gradient-to-r from-gray-50/0 via-gray-100/50 to-gray-50/0 opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-lg"></div>
